@@ -1,18 +1,14 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+name: Estágio Fácil
+description: Crie contratos de estágio de forma rápida e fácil. Simples assim!
+full_description: O Estágio Fácil é uma aplicação inovadora projetada para simplificar e agilizar o processo de criação de contratos de Termo de Compromisso de Estágio. Desenvolvido para estudantes, instituições de ensino e empresas, o aplicativo visa facilitar a formalização de acordos de estágio, tornando o procedimento mais acessível e eficiente.
+android: https://github.com/gabrielzinx/easy-internship/releases/download/aplicativo/estagio-facil.apk
+iOS: https://github.com/gabrielzinx/easy-internship/releases/download/aplicativo/estagio-facil.apk
+web: https://github.com/gabrielzinx/easy-internship/releases/download/aplicativo/estagio-facil.apk
 screenshots:
-  - 1.png
-  - 2.png
-  - 3.png
-  - 4.png
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+  - 4.jpg
 producthunt: https://telegra.ph/Replace-this-link-07-23
 companies:
   - url: https://telegra.ph/Replace-this-link-07-23
