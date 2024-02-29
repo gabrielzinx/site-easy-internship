@@ -1,9 +1,9 @@
 name: Estágio Fácil
 description: Crie contratos de estágio de forma rápida e fácil. Simples assim!
 full_description: O Estágio Fácil é uma aplicação inovadora projetada para simplificar e agilizar o processo de criação de contratos de Termo de Compromisso de Estágio. Desenvolvido para estudantes, instituições de ensino e empresas, o aplicativo visa facilitar a formalização de acordos de estágio, tornando o procedimento mais acessível e eficiente.
-android: https://github.com/gabrielzinx/easy-internship/releases/download/aplicativo/estagio-facil.apk
-iOS: https://github.com/gabrielzinx/easy-internship/releases/download/aplicativo/estagio-facil.apk
-web: https://github.com/gabrielzinx/easy-internship/releases/download/aplicativo/estagio-facil.apk
+android: https://github.com/gabrielzinx/site-easy-internship/releases/download/application/estagio-facil.apk
+iOS: https://github.com/gabrielzinx/site-easy-internship/releases/download/application/estagio-facil.apk
+web: https://github.com/gabrielzinx/site-easy-internship/releases/download/application/estagio-facil.apk
 screenshots:
   - 1.jpg
   - 2.jpg
